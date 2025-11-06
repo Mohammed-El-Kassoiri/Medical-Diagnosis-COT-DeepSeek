@@ -16,7 +16,7 @@ datasets:
 - FreedomIntelligence/medical-o1-reasoning-SFT
 ---
 
-# 🏥 AI Doctor V1
+# 🏥 Medical-Diagnosis-COT-DeepSeek V1
 
 <div align="center">
 
@@ -28,7 +28,7 @@ datasets:
 
 ## 📋 Overview
 
-**AI Doctor V1** is an advanced medical language model fine-tuned for clinical reasoning, diagnostic support, and treatment planning. Built on state-of-the-art transformer architecture and trained on medical reasoning datasets, this model demonstrates strong capabilities in understanding complex medical scenarios and providing structured clinical insights.
+**Medical-Diagnosis-COT-DeepSeek V1** is an advanced medical language model fine-tuned for clinical reasoning, diagnostic support, and treatment planning. Built on state-of-the-art transformer architecture and trained on medical reasoning datasets, this model demonstrates strong capabilities in understanding complex medical scenarios and providing structured clinical insights.
 
 ### Key Capabilities
 
