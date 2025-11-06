@@ -32,12 +32,12 @@ datasets:
 
 ### Key Capabilities
 
-- 🔍 **Clinical Reasoning**: Systematic analysis of medical cases with step-by-step reasoning
-- 🩺 **Diagnostic Support**: Differential diagnosis generation based on symptoms and clinical findings
-- 💊 **Treatment Planning**: Evidence-based treatment recommendations and care protocols
-- 📊 **Medical Q&A**: Comprehensive answers to medical questions with clinical context
-- 🧬 **Disease Knowledge**: Extensive understanding of pathophysiology, epidemiology, and clinical presentations
-
+- 🔍 **Medical question answering**
+- 🩺 **Clinical knowledge base**
+- 💊 **Accurate medical Q&A**
+- 📊 **Medical Q&A**
+- 🧬 **Evidence-based responses**
+- 
 ## 🛠️ Model Details
 
 - **Base Architecture**: Transformer-based causal language model
